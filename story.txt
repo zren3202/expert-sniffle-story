@@ -17,9 +17,16 @@ exquisite. With spaghetti he liked to serve bread rolls to compliment the spaghe
 Meanwhile, Caliban was very exquisite at making the best breakfast food.
 Caliban was trained to make pastries filled with anything people wanted.
 __Dylan Asoh
+<<<<<<< HEAD
 However, this day something went wrong. Both of the servers were not in the be
 st mood. As a result, guests didn't really like neither Calioban's breakfast, 
 nor Ariel's Italian food. Having listened to the guests not being amazed by 
 the food, Prospero was furious. So, he went ta have a talk with both Ariel and
-Caliban. He was so angry that wanted to punish them strictly at first.
+Caliban. He was so angry that he wanted to punish them strictly at first.
 __Matvey Tkachev
+=======
+Months went by peacefully and when the family grew accustomed to living on the island. 
+Just as the king thought his family was safe, while staring at the distance, he notices a ship
+heading towards the island. It was Antonio and he was here to kill the king!
+__Adrian Tse
+>>>>>>> ecac4ba80be92cd911d7a338173af25ae2d5e004
